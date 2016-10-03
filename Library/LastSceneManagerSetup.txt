@@ -2,3 +2,9 @@ sceneSetups:
 - path: Assets/5.scene/scMain.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/5.scene/scOpen.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/5.scene/scDeck.unity
+  isLoaded: 1
+  isActive: 0

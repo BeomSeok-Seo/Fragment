@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+﻿/* 파일명      : HandSortingManager.cs
+   작성자      : 
+   목적        : 
+   최종 수정 날 : 
+  */
+using UnityEngine;
 using System.Collections;
 
 public class HandSortingManager : MonoBehaviour {

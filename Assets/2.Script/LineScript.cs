@@ -1,5 +1,11 @@
-﻿using UnityEngine;
+﻿/* 파일명      : LineScript.cs
+   작성자      : 
+   목적        : 
+   최종 수정 날 : 
+  */
+using UnityEngine;
 using System.Collections;
+
 
 public class LineScript : MonoBehaviour {
 	private LineRenderer m_lrLineRenderer;

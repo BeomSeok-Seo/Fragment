@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragment v0817_Mark2.CSharp", "Fragment v0817_Mark2.CSharp.csproj", "{A206A825-9FCE-8908-A125-B2DC69A13C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A206A825-9FCE-8908-A125-B2DC69A13C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A206A825-9FCE-8908-A125-B2DC69A13C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A206A825-9FCE-8908-A125-B2DC69A13C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A206A825-9FCE-8908-A125-B2DC69A13C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
